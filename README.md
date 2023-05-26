@@ -14,7 +14,7 @@
 
 ### Třídnice
 
-- [x] Slouží jako nástroj pro učitele, aby mohli zapsat hodinu do virtuální třídnice.
+- Slouží jako nástroj pro učitele, aby mohli zapsat hodinu do virtuální třídnice.
 - [x] Mohou zapisovat téma hodiny, pozdní příchody a brzké odchody.
 - [x] Třídní učitelé mohou zjistit, kdo byl na hodině a kdo ne.
 - [x] Třídní učitelé mohou zjistit, kdo přišel pozdě a kdo odešel dřív.
