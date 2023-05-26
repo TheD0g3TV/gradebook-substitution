@@ -1,7 +1,5 @@
 # Třídnice/Suplování
 
----
-
 ## Popis
 
 ### Suplování
@@ -21,8 +19,6 @@
 - [ ] Žáci mohou zjistit, téma hodiny na které nebyli.
 - [x] Třídní učitel může předělávat zápisy své třídy.
 
----
-
 ## Použité technologie
 
 - Python 3.10.10
@@ -35,8 +31,6 @@
 - AJAX
 - MySQL/MariaDB
 - Stáhnutelné knihovny Djanga
-
----
 
 ## Autoři
 
