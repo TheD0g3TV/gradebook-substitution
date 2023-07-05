@@ -45,4 +45,4 @@
 
 - Matyáš Závora (Frontend, Testování, Dokumentace, Suplování)
   - [LinkedIn](https://www.linkedin.com/in/matyáš-závora-8b9086269/)
-  - [GitHub](https://github.com/TheD0g3TV)
+  - [GitHub](https://github.com/matyas-zavora)
